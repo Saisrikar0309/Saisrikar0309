@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Saisrikar0309
+- 👋 Hi, I’m @Saisrikar
 - 👀 I’m interested in Full Stack Web developer
 - 🌱 I’m currently learning Front end
 - 💞️ I’m looking to collaborate on a Product based company
